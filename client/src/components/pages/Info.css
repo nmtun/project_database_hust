@@ -1,0 +1,128 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Đặt chiều cao là 100% chiều cao của viewport */
+  }
+  
+  .form-wrapper {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 400px; /* Đặt chiều rộng tối đa cho form */
+    width: 100%; /* Đảm bảo form luôn chiếm đúng chiều rộng tối đa */
+  }
+
+  input::placeholder,
+  input {
+    text-align: center;
+  }
+  button[type="submit"] {
+    background-color: #007bff; /* Change the background color */
+    color: #fff; /* Change the text color */
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  .sign-up {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 100px;
+    background: #fff;
+    padding-bottom: 30px;
+    width: 600px;
+ 
+    .header{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     gap: 9px;
+     width: 100%;
+     margin-top: 30px;
+    }
+ 
+    .text{
+     color: #242424;
+     font-size: 48px;
+     font-weight: 700;
+    }
+ 
+    .underline{
+     width: 61px;
+     height: 6px;
+     background: #242424;
+     border-radius: 9px;
+    }
+ 
+    .inputs{
+     margin-top: 55px;
+     display: flex;
+     flex-direction: column;
+     gap: 25px;
+    }
+ 
+    .input{
+     display: flex;
+     align-items: center;
+     margin: auto;
+     width: 480px;
+     height: 80px;
+     background: #eaeaea;
+     border-radius: 6px;
+    }
+ 
+    .input img{
+     margin: 0px 30px;
+    }
+ 
+    .input input{
+     height: 50px;
+     width: 400px;
+     background: transparent;
+     border: none;
+     outline: none;
+     color: #797979;
+     font-size: 19px;
+    }
+ 
+    .forgot-password{
+     padding-left: 62px;
+     margin-top: 27px;
+     color: #797979;
+     font-size: 18px;
+    }
+ 
+    .forgot-password span{
+     color: #242424;
+     cursor: pointer;
+    }
+ 
+    .submit-container{
+     display: flex;
+     gap: 30px;
+     margin: 60px auto;
+    }
+ 
+    .submit{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 220px;
+     height: 59px;
+     color: #fff;
+     background: #242424;
+     border-radius: 50px;
+     font-size: 19px;
+     font-weight: 700;
+     cursor: pointer;
+    }
+ 
+    .gray{
+     background: #EAEAEA;
+     color: #676767;
+    }
+   }
