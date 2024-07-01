@@ -1,8 +1,42 @@
-# Hotel-Booking-HUST
-A hotel booking demo website for Database Lab - HUST
-# How to run code?
-1. clone this repo to your computer
-2. copy file database and paste in your psql sever
-3. install node js, react js and run if not run, copy content in file 'install' and paste in your terminal
-4. cd to client -> npm start; cd to sever -> npm start
-5. enjoy my website
+# Project Database HUST
+The project aims to design and implement a database system to manage hotel booking websites.
+
+## Technologies Used
+- **Backend**: Node.js
+- **Database**: PosgreSQL
+- **Frontend**: React.js
+
+## Installation
+To get started with the project, follow these steps:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/nmtun/project_database_hust.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd project_database_hust
+    ```
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the server:
+    ```bash
+    cd sever
+    npm start
+    ```
+5. Open the frontend:
+    Navigate to `http://localhost:3000` in your browser.
+
+## Usage
+
+1. Clone the repository and install the dependencies as described in the [Installation](#installation) section.
+2. Start the server and open the frontend in your browser.
+3. Follow the on-screen instructions to use the various features of the application.
+
+## Contact
+For any questions or suggestions, please feel free to reach out:
+- **Name**: Nguyễn Mạnh Tùng
+- **Email**: [nmtung.work@gmail.com](mailto:nmtung.work@gmail.com)
+
+
