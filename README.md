@@ -34,9 +34,6 @@ To get started with the project, follow these steps:
 2. Start the server and open the frontend in your browser.
 3. Follow the on-screen instructions to use the various features of the application.
 
-## Contact
-For any questions or suggestions, please feel free to reach out:
-- **Name**: Nguyễn Mạnh Tùng
-- **Email**: [nmtung.work@gmail.com](mailto:nmtung.work@gmail.com)
+
 
 
