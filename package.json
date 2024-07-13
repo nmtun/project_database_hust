@@ -1,0 +1,13 @@
+{
+  "name": "project_database_hust",
+  "version": "1.0.0",
+  "description": "The project aims to design and implement a database system to manage hotel booking websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "your-test-command"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
