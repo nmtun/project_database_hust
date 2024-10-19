@@ -34,6 +34,6 @@ To get started with the project, follow these steps:
 2. Start the server and open the frontend in your browser.
 3. Follow the on-screen instructions to use the various features of the application.
 
-
-
+## Demo
+[`http://localhost:3000`](https://hotel-booking-frontend-one.vercel.app/)
 
