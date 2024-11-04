@@ -2,7 +2,7 @@
 The project aims to design and implement a database system to manage hotel booking websites.
 
 ## Technologies Used
-- **Backend**: Node.js
+- **Backend**: Node.js, Express
 - **Database**: PosgreSQL
 - **Frontend**: React.js
 
